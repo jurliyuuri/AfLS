@@ -1,0 +1,4798 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "iu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "0", "ゼロ", "零" ]
+    } ],
+    "tags" : [ "数詞", "短縮数詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "0を表す数詞・短縮数詞\nieselより、存在の否定・無のニュアンスが強い"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 83,
+        "form" : "iesel"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "panqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "1", "一" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1を表す数詞\n\n例) Soor z'atakes panqa'st netixten liexytissi'd soor'it is liexytissi'd soor. 「任意の自然数は1を加えると自然数になる」\n例) E snoj niv panqa moni'akda'c fua dzeftlorznajo yrskestyrsy'd fanklao'it. 「素因数分解の一意性を成り立たせるために1は素数としない」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 11,
+        "form" : "pan"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "qa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "2", "二" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2を表す数詞\n\n例) Qa lap es qaenyrstusnisyk moni'akda. 「2は唯一の偶素数である」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 12,
+        "form" : "tu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "dqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "3", "三" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "3を表す数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 13,
+        "form" : "deu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "iupqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "4", "四" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "4を表す数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 14,
+        "form" : "iup"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "neoqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "5", "五" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "5を表す数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 15,
+        "form" : "fa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "xantaqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "6", "六" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "6を表す数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 16,
+        "form" : "xant"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "xenqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "7", "七" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "7を表す数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 17,
+        "form" : "xene"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "lekqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "8", "八" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "8を表す数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 18,
+        "form" : "lek"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "fentiqa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "9", "九" ]
+    } ],
+    "tags" : [ "数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "9を表す数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 19,
+        "form" : "fent"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "pan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "1", "一" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 2,
+        "form" : "panqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "tu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "2", "二" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 3,
+        "form" : "qa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "deu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "3", "三" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "3を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 4,
+        "form" : "dqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "iup"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "4", "四" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "4を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 5,
+        "form" : "iupqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "fa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "5", "五" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "5を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 6,
+        "form" : "neoqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "xant"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "6", "六" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "6を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 7,
+        "form" : "xantaqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "xene"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "7", "七" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "7を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 8,
+        "form" : "xenqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "lek"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "8", "八" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "8を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 9,
+        "form" : "lekqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "fent"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "9", "九" ]
+    } ],
+    "tags" : [ "短縮数詞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "9を表す短縮数詞"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 10,
+        "form" : "fentiqa"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "an-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "10", "10倍", "×10", "*10", "十", "十倍", "10^1", "×10^1", "*10^1", "e1" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを十倍する\n例1) qa(2)→anqa(20)\n例2) dqa(3), panqa(1)→andqa panqa(31)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 41,
+        "form" : "un-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "xan-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "100", "100倍", "×100", "*100", "百", "百倍", "10^2", "×10^2", "*10^2", "e2" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを百倍する\n例1) panqa(1)→xanpanqa(100)\n例2) neoqa(5), qa(2)→xanneoqa qa(502)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 42,
+        "form" : "xin-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "san-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "1000", "1000倍", "×1000", "*1000", "千", "千倍", "10^3", "×10^3", "*10^3", "e3" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを千倍する\n例) iupqa(4)→saniupqa(4000)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 43,
+        "form" : "sin-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "can-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "10000", "10000倍", "×10000", "*10000", "万", "一万", "万倍", "一万倍", "10^4", "×10^4", "*10^4", "e4" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを一万倍する\n例) qa(2)→canqa(20000)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 44,
+        "form" : "cin-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "en-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "億", "一億", "億倍", "一億倍", "10^8", "×10^8", "*10^8", "e8" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを一億倍する\n例) iupqa(4)→eniupqa(4億, 4e8)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 45,
+        "form" : "on-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "in-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "兆", "一兆", "兆倍", "一兆倍", "10^12", "×10^12", "*10^12", "e12" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを一兆倍する\n例) dqa(3)→indqa(3兆, 3e12)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 46,
+        "form" : "oun-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "etp-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "京", "一京", "京倍", "一京倍", "10^16", "×10^16", "*10^16", "e16" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを一京倍する\n例) qa(2)→etpqa(2京, 2e16)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 47,
+        "form" : "itp-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "ilt-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "垓", "一垓", "垓倍", "一垓倍", "10^20", "×10^20", "*10^20", "e20" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを一垓倍する\n例) lekqa(8)→iltlekqa(8垓, 8e20)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 48,
+        "form" : "elt-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "pux-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "抒", "一抒", "抒倍", "一抒倍", "秭", "一秭", "秭倍", "一秭倍", "10^24", "×10^24", "*10^24", "e24" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを一抒倍する\n例) qa(2)→puxqa(2抒, 2e24)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 49,
+        "form" : "pix-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "fux-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "穣", "一穣", "穣倍", "一穣倍", "10^28", "×10^28", "*10^28", "e28" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを一穣倍する\n例) iupqa(4)→fuxiupqa(4穣, 4e28)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 50,
+        "form" : "fix-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "-kung"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "2", "2倍", "二", "二倍", "倍", "×2", "*2 " ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを二倍する\n\n例) qa(2)→qakung(4)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 51,
+        "form" : "-king"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "-nang"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "5", "5倍", "五", "五倍", "×5", "*5 " ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを五倍する\n\n例) neoqa(5)→neoqanang(25)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 52,
+        "form" : "-ning"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "-te"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "第", "第～", "番", "～番", "番目", "～番目", "番目の", "～番目の", "序数詞接辞" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "基数詞についてそれを序数詞にする\n例) neoqa(5)→neoqate(第5の)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 33,
+        "form" : "-tva"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "-tva"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "倍", "～倍", "倍数詞接辞" ]
+    }, {
+      "title" : "語尾辞",
+      "forms" : [ "第", "第～", "番", "～番", "番目", "～番目", "番目の", "～番目の", "序数詞接辞" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "基数詞についてそれを倍数詞にする\n例) neoqa(5)→neoqatva(5倍)\n\n口語においては-teの如く序数詞接辞としても用いる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 32,
+        "form" : "-te"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 92,
+        "form" : "latva"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "-ss"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "いくつもの～", "多くの～", "複数の～", "多数の～" ]
+    }, {
+      "title" : "語尾辞",
+      "forms" : [ "～くらい", "およそ～", "凡そ～", "約～", "ざっと～", "～程度", "概数接辞" ]
+    } ],
+    "tags" : [ "数表現", "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "語尾辞-ssには2つの用法が存在する。\n\n第一の用法は、名詞についてそれが表す物体の数が多いことを示すものである。\n例) larta(人間)→lartass(人々)\n\n第二の用法は、数詞についてそれが概数を表すことを示すものである。\n例) anqa(20)→anqass(20程度)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 84,
+        "form" : "lovik"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 85,
+        "form" : "xale"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 35,
+      "form" : "-'d"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "～の", "～個の", "～つの", "個数接辞" ]
+    } ],
+    "tags" : [ "数詞", "数表現", "接辞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "本来属格の語尾辞である-'dは、「数詞-'d 名詞」の形で「(数詞)個の(名詞)」の意味をも表す\n例) neoqa(5), ketiv(鳥)→neoqa'd ketiv(5羽の鳥)\n\n参照: https://twitter.com/sashimiwiki/status/1076714697435406337"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 36,
+      "form" : "-le"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "～%の確率で", "～パーセントの確率で", "モダリティ表現" ]
+    } ],
+    "tags" : [ "数表現", "確率", "数詞", "接辞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "0以上99以下の自然数nについて、数詞n-leは「n±10%程度の確率で」という意味になる。\n例) anqa(20)→anqale(10～30%の確率で=無いとは思うが)\n\n日常的にはあまり使われない\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-12-3-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 37,
+        "form" : "iule"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 37,
+      "form" : "iule"
+    },
+    "translations" : [ {
+      "title" : "副詞",
+      "forms" : [ "決して～しない" ]
+    } ],
+    "tags" : [ "数表現", "確率", "数詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "0を表す数詞iuにモダリティ表現を表す語尾辞-leがついた単語。\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-12-3-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 36,
+        "form" : "-le"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 38,
+      "form" : "-inie-"
+    },
+    "translations" : [ {
+      "title" : "語中辞",
+      "forms" : [ "～の～乗", "～乗", "累乗", "^" ]
+    } ],
+    "tags" : [ "数表現", "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "2つの数詞をつなげて累乗を表す。より具体的には「数詞A-inie-数詞B」で「AのB乗」を表す。\n\n例1) qa(2), qa(2)→qainieqa(2^2)\n例2) neoqa(5), xenqa(7)→neoqainiexenqa(5^7)\n例3) neoqa(5), dqa(3)→neoqainiedqa(5^3)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 39,
+      "form" : "-sta"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "～の一部", "～のうちの一部", "部分格接辞", "～分の", "分母接辞" ]
+    } ],
+    "tags" : [ "数詞", "数表現", "接辞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "リパライン語において、分数は「(分母)-sta lut (分子)」で表される。\n例) lekqa(8), dqa(3)→lekqasta lut dqa(3/8)\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-14-5.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 40,
+        "form" : "lut"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 78,
+        "form" : "soorsta"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 158,
+        "form" : "s.l."
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 159,
+        "form" : "sler"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 40,
+      "form" : "lut"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "分の～", "分子接辞" ]
+    } ],
+    "tags" : [ "数詞", "数表現", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "リパライン語において、分数は「(分母)-sta lut (分子)」で表される。\n例) lekqa(8), dqa(3)→lekqasta lut dqa(3/8)\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-14-5.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 39,
+        "form" : "-sta"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 79,
+        "form" : "lutursoor"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 158,
+        "form" : "s.l."
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 159,
+        "form" : "sler"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 41,
+      "form" : "un-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ ".1", "0.1", "1/10", "1/10倍", "×1/10", "*1/10", "÷10", "/10", "十分の一", "十分の一倍", "分", "10^-1", "×10^-1", "*10^-1", "e-1" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/10する\n例1) qa(2)→unqa(0.2)\n例2) dqa(3), panqa(1)→dqa ad unpanqa(3.1)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 20,
+        "form" : "an-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 42,
+      "form" : "xin-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ ".01", "0.01", "1/100", "1/100倍", "×1/100", "*1/100", "÷100", "/100", "百分の一", "百分の一倍", "厘", "10^-2", "×10^-2", "*10^-2", "e-2" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/100する\n例1) panqa(1)→xinpanqa(0.01)\n例2) qa(2), lekqa(8)→qa ad xinlekqa(2.08)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 21,
+        "form" : "xan-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 43,
+      "form" : "sin-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ ".001", "0.001", "1/1000", "1/1000倍", "×1/1000", "*1/1000", "÷1000", "/1000", "千分の一", "千分の一倍", "毛", "10^-3", "×10^-3", "*10^-3", "e-3" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/1000する\n例1) neoqa(5)→sinneoqa(0.005)\n例2) panqa(1), anqa panqa(21)→panqa ad sinanqa panqa(1.021; 旧文法)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 22,
+        "form" : "san-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 44,
+      "form" : "cin-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ ".0001", "0.0001", "1/10000", "1/10000倍", "×1/10000", "*1/10000", "÷10000", "/10000", "万分の一", "万分の一倍", "一万分の一", "一万分の一倍", "糸", "10^-4", "×10^-4", "*10^-4", "e-4" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/一万する\n例) qa(2)→unqa(0.0002)\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 23,
+        "form" : "can-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 45,
+      "form" : "on-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "億分の一", "億分の一倍", "一億分の一", "一億分の一倍", "沙", "10^-8", "×10^-8", "*10^-8", "e-8" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/一億する\n例) anqa panqa(21)→onanqa panqa(21/一億, 21e-8=2.1e-7; 旧文法)\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 24,
+        "form" : "en-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 46,
+      "form" : "oun-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "兆分の一", "兆分の一倍", "一兆分の一", "一兆分の一倍", "漠", "10^-12", "×10^-12", "*10^-12", "e-12" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/一兆する\n例) dqa(3)→oundqa(3/一兆, 3e-12)\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 25,
+        "form" : "in-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 47,
+      "form" : "itp-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "京分の一", "京分の一倍", "一京分の一", "一京分の一倍", "瞬息", "10^-16", "×10^-16", "*10^-16", "e-16" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/一京する\n例) xenqa(7)→itpxenqa(7/一京, 7e-16)\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 26,
+        "form" : "etp-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 48,
+      "form" : "elt-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "垓分の一", "垓分の一倍", "一垓分の一", "一垓分の一倍", "虚空", "10^-20", "×10^-20", "*10^-20", "e-20" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/一垓する\n例) dqa(3)→eltdqa(3/一垓, 3e-20)\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 27,
+        "form" : "ilt-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 49,
+      "form" : "pix-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "\uD855\uDF71分の一", "\uD855\uDF71分の一倍", "一\uD855\uDF71分の一", "一\uD855\uDF71分の一倍", "秭分の一", "秭分の一倍", "一秭分の一", "一秭分の一倍", "涅槃寂静", "10^-24", "×10^-24", "*10^-24", "e-24" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/一\uD855\uDF71する\n例) neoqa(5)→pixneoqa(5/一\uD855\uDF71, 5e-24)\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 28,
+        "form" : "pux-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 50,
+      "form" : "fix-"
+    },
+    "translations" : [ {
+      "title" : "前置辞詞",
+      "forms" : [ "穣分の一", "穣分の一倍", "一穣分の一", "一穣分の一倍", "10^-28", "×10^-28", "*10^-28", "e-28" ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/一穣する\n例) dqa(3)→fixdqa(3/一穣, 3e-28)\n"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 29,
+        "form" : "fux-"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 51,
+      "form" : "-king"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "1/2", "1/2倍", "二分の一", "二分の一倍", "半分", "×1/2", "*1/2", "÷2", "/2 " ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/2する\n\n例) qa(2)→qaking(1)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 30,
+        "form" : "-kung"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 52,
+      "form" : "-ning"
+    },
+    "translations" : [ {
+      "title" : "語尾辞",
+      "forms" : [ "1/5", "1/5倍", "五分の一", "五分の一倍", "×1/5", "*1/5", "÷5", "/5 " ]
+    } ],
+    "tags" : [ "数詞", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数詞についてそれを1/5する\n\n例) neoqa(5)→neoqaning(1)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "逆数",
+      "entry" : {
+        "id" : 31,
+        "form" : "-nang"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 53,
+      "form" : "ad"
+    },
+    "translations" : [ {
+      "title" : "接続詞",
+      "forms" : [ "と", "～と～", "そして", "かつ", "and", "点", "小数点", "～点～" ]
+    } ],
+    "tags" : [ "数表現", "数詞", "論理", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "本来は名詞句や動詞句をつなげる接続詞であるが、以下のように小数表現において整数部分と小数部分をつなげるのにも使われる。\n新文法における例) andqa xenqa(37), un-(1/100), qa(2), xin-(1/100) panqa(1)→andqa xenqa ad unqa xinpanqa(37.21)\n旧文法における例) andqa xenqa(37), xin-(1/00), anqa panqa(21)→andqa xenqa ad xinanqa panqa(37.21)\n\n但し短縮数詞による小数表現ではadもxin-のような位接頭辞も用いない(larlを参照)\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-14-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 170,
+        "form" : "adal"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 54,
+      "form" : "larl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "点" ]
+    } ],
+    "tags" : [ "幾何学", "図形名", "短縮数詞", "数表現", "理日非準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "短縮数詞とともに用いて、以下のように(つまり日本語と同じように)小数部分を表す。\n例) anpan tu(12), pan(1) fa(5)→anpan tu larl pan fa(12.15)\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-14-9.-\n\n例) Tu'd niacicen soor es larl fa. 「2の逆数は.5である」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 55,
+      "form" : "le"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "～より", "～よりも", "比較の前置詞" ]
+    } ],
+    "tags" : [ "比較表現", "数表現", "前置詞・後置詞", "理日非準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(主語)は(比較の対象)よりも(形容詞)である」という文は「(主語) es (比較の対象) le (形容詞).」または「(主語) es (形容詞) lej (比較の対象).」と表される。\n例) Mi es lipakorl le bekarlen./Mi es bekarlen lej lipakorl. 「私はリパコールより無慈悲だ」\n\nまたcixによって差異を表すことができる。\n例) P 5fta cix es Fh le loler. 「PはFhよりも5ftaだけ長い」\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 56,
+        "form" : "cix"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 56,
+      "form" : "cix"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "～だけ", "～の差異で" ]
+    } ],
+    "tags" : [ "比較表現", "数表現", "前置詞・後置詞", "理日非準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "cixを使うことにより、leを用いた比較の文において差異を表すことができる。\nBefore) P es Fh le loler. 「PはFhより多い」\nAfter) P 5fta cix es Fh le loler. 「PはFhより5ftaだけ長い」\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 55,
+        "form" : "le"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 57,
+      "form" : "ce"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "～と同じくらい", "～と同等に", "同等比較の前置詞" ]
+    } ],
+    "tags" : [ "比較表現", "数表現", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(主語)は(比較の対象)と同じくらい(形容詞)である」という文は「(主語) es (比較の対象) ce (形容詞).」または「(主語) es (形容詞) cej (比較の対象).」と表される。\n例) Aptum es liqka ce tlest./Aptum es tlest cej liqka. 「栄光は夢と同じくらい曖昧である」\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 58,
+      "form" : "les"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "～の中で最も", "～のうち最も", "最上級の前置詞" ]
+    } ],
+    "tags" : [ "比較表現", "数表現", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(主語)は(グループ)の中で最も(形容詞)である」という文は「(主語) es (グループ) les (形容詞).」または「(主語) es (形容詞) lesj (グループ).」と表される。\n例)Ales lanerme lifan es derarss les visnia./Ales lanerme lifan es visnia lesj derarss. 「アレス・ラネーメ・リファンは社長たちのうちで最も強い」\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 59,
+      "form" : "xo"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "～以上に", "比較の後置詞" ]
+    } ],
+    "tags" : [ "比較表現", "数表現", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(主語)は(比較の対象)以上に(形容詞)である」という文は「(主語) es (比較の対象) xo (形容詞).」または「(主語) es (形容詞) xoj (比較の対象).」と表される。\n例) Lipakorl es kertni'ar xo malef./Lipakorl es malef xoj kertni'ar. 「リパコールはケートニアー以上に危険だ」\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 60,
+      "form" : "xut"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "～以下に", "～より～ではない", "比較の後置詞" ]
+    } ],
+    "tags" : [ "比較表現", "数表現", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(主語)は(比較の対象)以下に(形容詞)である」という文は「(主語) es (比較の対象) xut (形容詞).」または「(主語) es (形容詞) xutj (比較の対象).」と表される。\n例) Naste dolumer es naste fhjacafi xut eim./Naste dolumer es eim xutj naste fhjacafi. 「完全な悪人は完全な英雄ほどにはおぞましくない」\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 61,
+      "form" : "xy"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "～未満に", "～よりも～でない", "比較の前置詞" ]
+    } ],
+    "tags" : [ "比較表現", "数表現", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(主語)は(比較の対象)未満に(形容詞)である」という文は「(主語) es (比較の対象) xy (形容詞).」または「(主語) es (形容詞) xyj (比較の対象).」と表される。\n例) Kikud es lineparine xy snaren./Kikud es snaren xyj lineparine. 「英語はリパライン語より不規則だ」\n\n参照: https://sites.google.com/site/3tvalineparine/pei-bu/lineparined-krancia#TOC-7.-"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 62,
+      "form" : "alvelktus fon lipalain stusnyp"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "リパライン数学事典" ]
+    } ],
+    "tags" : [ "国際理語" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "alvelktus fon lipalain stusnypは、基本的なリパライン語の知識やユエスレオネの理解を仮定したうえでリパライン数学を理解するのに必要なことを数詞から数学史や実際の理論に至るまで説明することを目標にskurlavenija.mavijaにより編纂されている事典、要はこの事典のことである。\n編纂ツイートは「#AlvelktusFonLipalainStusnyp」にまとめられているので、単語採録依頼などは直近のツイートにリプで。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 63,
+      "form" : "stusnyp"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "算数", "数学" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この事典で説明される事象は何らかの意味でstusnypに関係があるものである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 162,
+        "form" : "stusnypes"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 64,
+      "form" : "poltafikelixeolyr"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "幾何", "幾何学" ]
+    } ],
+    "tags" : [ "分野名", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "数学の一分野。現世と同様に非ユークリッド幾何学を含めるのか、そもそもどれだけの公理化を経た体系かは未考察。\n\n註) 字義通りには「測量学」の意"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 166,
+        "form" : "afikelixe"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 167,
+        "form" : "poltafikelixe"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 168,
+        "form" : "poltafikelixeo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 65,
+      "form" : "so"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "命題" ]
+    } ],
+    "tags" : [ "初等数学", "論理学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "現世と同様に暗黙のうちに「真であること」をほのめかしうるかは未考察。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 66,
+        "form" : "meslakante"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 67,
+        "form" : "meslakanzo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 66,
+      "form" : "meslakante"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "公理" ]
+    } ],
+    "tags" : [ "初等数学", "論理学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "リパライン数学で体系を厳密に公理系から導くことにどれだけの関心が向けられてるかは未考察。現世でいうとオイラーも荒っぽい議論をしているので、時代によって変化する可能性も十分考えられる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 65,
+        "form" : "so"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 67,
+        "form" : "meslakanzo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 67,
+      "form" : "meslakanzo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "定理" ]
+    } ],
+    "tags" : [ "初等数学", "論理学", "理日非準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「補題」「系」などの用語は未考察。\n\n註) リパライン語ではmeslakanzoはlaoziaするものである。\n\n参照: https://jurliyuuri.slack.com/archives/C70Q9AVEG/p1509408734000033"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 65,
+        "form" : "so"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 66,
+        "form" : "meslakante"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 68,
+      "form" : "atakes"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "たす", "足す", "+", "プラス", "加える", "加算する" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "格組は「-'sを-'iに足す」の形である。\n\n例) 1 atakes 1 mal is 2. 「1+1=2(⇔1を1に足すと2になる)」\n例) Soor z'atakes panqa'st netixten liexytissi'd soor'it is liexytissi'd soor. 「任意の自然数は1を加えると自然数になる」\n例) Fi q es neftilsor, e mol fankla tilsor's l'es h ad nistajunie's l'es r zu h atakes r mal is q. E's tilsor'd tefivilskal q'dy cix snoj stiesel h mal neftilsor'd tefivilskal q'dy cix snoj stiesel r. 「qが非整数ならば、整数hとnistajunie rであってq=h+rを満たすものが唯一つ存在する。hをqの整数部分、rをqの小数部分という」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 69,
+        "form" : "ny atakes"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 77,
+        "form" : "diunniacien soor"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 109,
+        "form" : "terk"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 143,
+        "form" : "neoqa ferl"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 171,
+        "form" : "atakeses"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 172,
+        "form" : "nistaatakes"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 69,
+      "form" : "ny atakes"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "ひく", "引く", "-", "マイナス", "減ずる", "減算する" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "格組は「-'sから-'iを引く」の形である。\n\n例) 2 ny atakes 1 mal is 1. 「2-1=1(⇔2から1を引くと1になる)」\n\n参照: https://sites.google.com/site/maiandmit/home/historyofmath/handbuch#TOC-atakes"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 68,
+        "form" : "atakes"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 141,
+        "form" : "estalle"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 143,
+        "form" : "neoqa ferl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 70,
+      "form" : "stusni"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "かける", "掛ける", "×", "*", "乗算する" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "格組は「-'sは-'iと-'cをかけたものである」の形である。\n\n例) 10 stusni 5'i 2'c. 「5×2=10(⇔10は5と2をかけたものである)」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 71,
+        "form" : "ny stusni"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 75,
+        "form" : "niacicen soor"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 111,
+        "form" : "stusni'amars"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 143,
+        "form" : "neoqa ferl"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 169,
+        "form" : "stusnimeo"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 71,
+      "form" : "ny stusni"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "わる", "割る", "÷", "/", "除算する" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "実数a,b(但しb≠0)についてa/bを与える演算のことを指す。\n格組は「-'sは-'iを-'cで割ったもの」の形である。\n\n例) 3 ny stusni 15'i 5'c. 「15÷5=3(⇔3は15を5で割ったものである)」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 70,
+        "form" : "stusni"
+      }
+    }, {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 72,
+        "form" : "kakites"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 143,
+        "form" : "neoqa ferl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 72,
+      "form" : "kakites"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "わる", "割る", "÷", "/", "除算する" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "整数a,b(但しb≠0)について整数q,r(但し0≦r<|b|)であってa=bq+rを満たすものを与える演算のことを指す。\n格組は「-'sは-'iをioで割る」の形である。\n\n例) E kakites 20'i 3 io mal is 6 ad anfilerl'd 2. 「20÷3=6…2(⇔20を3で割ると6と余りの2になる)」\n例) E snoj r'c kakiteserl'i a'it b io mal la lexe'd anfilerl es r.「aをbで割った余りをrとする」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 71,
+        "form" : "ny stusni"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 73,
+        "form" : "anfilerl"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 6,
+        "form" : "neoqa"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 184,
+        "form" : "kakiteosso"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 185,
+        "form" : "naste kakites"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 73,
+      "form" : "anfilerl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "剰余", "余り" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "語の意義の故、kakitesと用いられやすい。\n\n例) E kakites 20'i 3 io mal is 6 ad anfilerl'd 2. 「20÷3=6…2(⇔20を3で割ると6と余りの2になる)」\n例) E snoj r'c kakiteserl'i a'it b io mal la lexe'd anfilerl es r.「aをbで割った余りをrとする」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 72,
+        "form" : "kakites"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 74,
+      "form" : "soor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "数", "数値", "値" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "所謂「数」を指し、多くの数学用語に登場する。\n\n例) Soor z'atakes panqa'st netixten liexytissi'd soor'it is liexytissi'd soor. 「任意の自然数は1を加えると自然数になる」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 75,
+        "form" : "niacicen soor"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 77,
+        "form" : "diunniacien soor"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 78,
+        "form" : "soorsta"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 79,
+        "form" : "lutursoor"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 80,
+        "form" : "liexytissi'd soor"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 82,
+        "form" : "xyfarzten soor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 75,
+      "form" : "niacicen soor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "逆数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "非零実数aに対する1/aのこと\n\n例) Tu'd niacicen soor es larl fa. 「2の逆数は.5である」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 70,
+        "form" : "stusni"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 74,
+        "form" : "soor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 76,
+      "form" : "diun-"
+    },
+    "translations" : [ {
+      "title" : "前置辞",
+      "forms" : [ "符号の" ]
+    } ],
+    "tags" : [ "初等数学", "接辞", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "本来、「先頭の」という意味だったが、符号が数の先頭に置かれるため「符号の」という意味が発生した。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 77,
+        "form" : "diunniacien soor"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 149,
+        "form" : "diunakrapt"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 77,
+      "form" : "diunniacien soor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "反数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "実数aに対する-aのこと。\n\n以下のような構成である。\ndiun-(符号の) + niacien(逆の) → diunniacien(符号反転した)\ndiunniacien + soor(数) → diunniacien soor"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 74,
+        "form" : "soor"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 76,
+        "form" : "diun-"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 68,
+        "form" : "atakes"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 78,
+      "form" : "soorsta"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "分母" ]
+    } ],
+    "tags" : [ "初等数学", "数表現", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「分数表現で-staのつく方の数」の意。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 74,
+        "form" : "soor"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 39,
+        "form" : "-sta"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 79,
+        "form" : "lutursoor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 79,
+      "form" : "lutursoor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "分子" ]
+    } ],
+    "tags" : [ "初等数学", "数表現", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「分数表現でlutのつく方の数」の意。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 74,
+        "form" : "soor"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 40,
+        "form" : "lut"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 78,
+        "form" : "soorsta"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 80,
+      "form" : "liexytissi'd soor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "自然数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "どの分野で0を含むかは未考察。\n\n例) Soor z'atakes panqa'st netixten liexytissi'd soor'it is liexytissi'd soor. 「任意の自然数は1を加えると自然数になる」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 74,
+        "form" : "soor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 81,
+      "form" : "tilsor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "整数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) Fi q es neftilsor, e mol fankla tilsor's l'es h ad nistajunie's l'es r zu h atakes r mal is q. E's tilsor'd tefivilskal q'dy cix snoj stiesel h mal neftilsor'd tefivilskal q'dy cix snoj stiesel r. 「qが非整数ならば、整数hとnistajunie rであってq=h+rを満たすものが唯一つ存在する。hをqの整数部分、rをqの小数部分という」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 138,
+        "form" : "tilsor'd tefivilskal"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 82,
+      "form" : "xyfarzten soor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "実数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 74,
+        "form" : "soor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 83,
+      "form" : "iesel"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "0", "ゼロ", "零" ]
+    } ],
+    "tags" : [ "数表現", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "iuよりも数値としての0としてのニュアンスが強い"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 1,
+        "form" : "iu"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 84,
+      "form" : "lovik"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "～くらい", "およそ～", "凡そ～", "約～", "ざっと～", "～程度", "概数の後置詞" ]
+    } ],
+    "tags" : [ "数表現", "数詞", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(数詞) lovik」はそのまま「(数詞)-ss-'d」に置換可能である。\nつまり、「(数詞) lovik (名詞)」で「(数詞)個程度の(数詞)」の意味を表す。\n\n例) xenqa(7), stela(星座)→xenqa lovik stela(=xenqassa'd stela)(7つほどの星座)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 34,
+        "form" : "-ss"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 85,
+        "form" : "xale"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 85,
+      "form" : "xale"
+    },
+    "translations" : [ {
+      "title" : "後置詞",
+      "forms" : [ "～くらい", "およそ～", "凡そ～", "約～", "ざっと～", "～程度", "概数の後置詞" ]
+    }, {
+      "title" : "前置詞",
+      "forms" : [ "～くらい", "およそ～", "凡そ～", "約～", "ざっと～", "～程度", "概数の前置詞" ]
+    } ],
+    "tags" : [ "数表現", "数詞", "前置詞・後置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "xaleと数詞からなる節は動詞にかかって概数を表す。「そのような事象が(数詞)回くらい実現している」といった意味である。\n\n例) Ketiv anfil.(鳥がとまっている) + xale xenqa(7程度である)→Ketiv anfil xale xenqa.(鳥がとまっていることが7回くらい実現している=7匹くらいの鳥がとまっている)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 34,
+        "form" : "-ss"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 84,
+        "form" : "lovik"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 86,
+      "form" : "anaxkaidzern"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "変数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "変数に使われる文字は、qunenerfe(未知の)の頭文字qがメジャーである。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 87,
+        "form" : "lifemperda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 87,
+      "form" : "lifemperda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "定数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "定数を表す文字としてメジャーなものは未考察である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 86,
+        "form" : "anaxkaidzern"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 88,
+      "form" : "adist"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "比例", "比例する", "線形", "線型", "線型の関係にある" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "枠組は「-'sは-'iに比例する」の形である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 89,
+        "form" : "adisten"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 90,
+        "form" : "niacicenradist"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 89,
+      "form" : "adisten"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "線形", "線形的", "線形的な", "線型", "線型的", "線型的な", "線型の関係にある" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "下のように2つのものの線型関係を主張する形容詞である。\n例) Lacherf l'es x ad y es adisten 「ベクトルx,yは線型の関係にある」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 88,
+        "form" : "adist"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 90,
+      "form" : "niacicenradist"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "反比例" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 88,
+        "form" : "adist"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 91,
+      "form" : "tasniau"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "関数", "函数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 92,
+      "form" : "latva"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "倍数" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 33,
+        "form" : "-tva"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 93,
+      "form" : "moni'akda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "素数" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) Qa lap es qaenyrstusnisyk moni'akda. 「2は唯一の偶素数である」\n例) E snoj niv panqa moni'akda'c fua dzeftlorznajo yrskestyrsy'd fanklavo'it. 「素因数分解の一意性を成り立たせるために1は素数としない」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 94,
+      "form" : "yrskestyrsy"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "素因数分解" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) E snoj niv panqa moni'akda'c fua dzeftlorznajo yrskestyrsy'd fanklao'it. 「素因数分解の一意性を成り立たせるために1は素数としない」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 189,
+        "form" : "kestieken moni'akda"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 95,
+      "form" : "chai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "線", "曲線" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "一般の曲線を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 97,
+        "form" : "cystfechen chai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 96,
+      "form" : "cystfechen"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "まっすぐ", "真っすぐ", "真っ直ぐ", "まっすぐの", "真っすぐの", "真っ直ぐの", "直線の", "直線的な", "直線状の" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "線形の", "線型の", "アフィンの", "アフィン的な" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日非準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "この語には大きく2つの用法がある。\n\n第一は「直線上の」というもので、chai(一般の曲線)とともにcystfechen chai(直線)の形で用いたり、nyjonarchai(有界な曲線)とともにcystfechen nyjonarchai(線分)の形で用いたりする。\n\n第二は「アフィン的な」というもので、アフィン的な関係にあるスカラーx,yのグラフが直線であることから連想された用法である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 97,
+        "form" : "cystfechen chai"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 99,
+        "form" : "cystfechen nyjonarchai"
+      }
+    }, {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 100,
+        "form" : "ny cystfechen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 97,
+      "form" : "cystfechen chai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "線", "直線" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 95,
+        "form" : "chai"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 96,
+        "form" : "cystfechen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 98,
+      "form" : "nyjonarchai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "有界な曲線" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "一般の曲線を指す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 97,
+        "form" : "cystfechen chai"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 99,
+        "form" : "cystfechen nyjonarchai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 99,
+      "form" : "cystfechen nyjonarchai"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "直線", "線分" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 96,
+        "form" : "cystfechen"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 98,
+        "form" : "nyjonarchai"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 100,
+      "form" : "ny cystfechen"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "まっすぐでない", "曲がった" ]
+    }, {
+      "title" : "形容詞",
+      "forms" : [ "アフィンでない", "非線形な" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "cystfechenの2つの用法を引き継いだ用法を持つ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 96,
+        "form" : "cystfechen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 101,
+      "form" : "infescest"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "三角", "3角", "三角形", "3角形" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 183,
+        "form" : "infescestemeles"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 102,
+        "form" : "jalern infescest"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 102,
+      "form" : "jalern infescest"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "二等辺三角形" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 101,
+        "form" : "infescest"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 103,
+      "form" : "yst afi'orj"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "四角", "4角", "四角形", "4角形" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 104,
+      "form" : "eo afi'orj"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "長方形", "長四角", "矩形", "さしがた" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 105,
+      "form" : "rafte"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "円", "環", "真円" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) Fqa'd rafte'd akitesafte es 1fta. 「この円の半径は1ftaである」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 114,
+        "form" : "akitesafte"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 205,
+        "form" : "raftettexain"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 106,
+      "form" : "systusnej"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "角度" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 107,
+      "form" : "daliurstiesupen"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "合同な", "合同の" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 108,
+      "form" : "stesenerstiesupen"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "相似な", "相似の" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 109,
+      "form" : "terk"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "和", "合計", "総計" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "たし算", "足し算", "加法" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 68,
+        "form" : "atakes"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 140,
+        "form" : "nyrterko"
+      }
+    }, {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 141,
+        "form" : "estalle"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 143,
+        "form" : "neoqa ferl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 110,
+      "form" : "lersa"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "距離", "間隔", "隔たり", "遠さ", "道のり" ]
+    } ],
+    "tags" : [ "初等数学" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "「(名詞)間の距離」は「(名詞)-'d lersa」と表す。\n\n例) pite'd marlasta(双方の市)→pite'd marlasta'd lersa(両市を隔てている距離)"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 111,
+      "form" : "stusni'amars"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "かけ算", "掛け算", "乗算", "乗法" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 70,
+        "form" : "stusni"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 142,
+        "form" : "ixfanterl"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 143,
+        "form" : "neoqa ferl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 112,
+      "form" : "la xeji"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "球", "玉", "ボール" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) Fqa'd la xeji'd akitesafte es 1fta. 「この球の半径は1ftaである」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 114,
+        "form" : "akitesafte"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 113,
+      "form" : "jysnej"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "単位" ]
+    } ],
+    "tags" : [ "数表現", "度量衡", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 114,
+      "form" : "akitesafte"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "半径" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "円や球はある特定の空間において定点から一定距離にある点の集合である。その一定距離のことをakitesafteによって総称する。\n\n例) Fqa'd rafte'd akitesafte es 1fta. 「この円の半径は1ftaである」\n例) Fqa'd la xeji'd akitesafte es 1fta. 「この球の半径は1ftaである」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 105,
+        "form" : "rafte"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 112,
+        "form" : "la xeji"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 144,
+        "form" : "suiv"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 145,
+        "form" : "sysit"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 205,
+        "form" : "raftettexain"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 115,
+      "form" : "junie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "分数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 118,
+        "form" : "atatilsoren junie"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 119,
+        "form" : "larxowen junie"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 117,
+        "form" : "xuten junie"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 127,
+        "form" : "ceesris junie"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 128,
+        "form" : "asmietx junie"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 134,
+        "form" : "denepelen junie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 117,
+      "form" : "xuten junie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "仮分数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 115,
+        "form" : "junie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 118,
+      "form" : "atatilsoren junie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "帯分数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 115,
+        "form" : "junie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 119,
+      "form" : "larxowen junie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "真分数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 115,
+        "form" : "junie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 120,
+      "form" : "adileium"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "百分率", "パーセント", "%" ]
+    } ],
+    "tags" : [ "数表現", "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 121,
+      "form" : "leium"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "比率", "率", "割合" ]
+    } ],
+    "tags" : [ "数表現", "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 122,
+      "form" : "nertalg"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "奇数" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 123,
+        "form" : "qarnyrstusninerfe"
+      }
+    }, {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 124,
+        "form" : "certalg"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 123,
+      "form" : "qarnyrstusninerfe"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "奇数の" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 122,
+        "form" : "nertalg"
+      }
+    }, {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 125,
+        "form" : "qarnyrstusnisyk"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 124,
+      "form" : "certalg"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "偶数" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 122,
+        "form" : "nertalg"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 125,
+        "form" : "qarnyrstusnisyk"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 125,
+      "form" : "qarnyrstusnisyk"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "偶数の" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) Qa lap es qaenyrstusnisyk moni'akda. 「2は唯一の偶素数である」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 123,
+        "form" : "qarnyrstusninerfe"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 124,
+        "form" : "certalg"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 126,
+      "form" : "cerxe"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "正六面体", "立方体" ]
+    }, {
+      "title" : "名詞",
+      "forms" : [ "さい", "賽", "さいころ", "サイコロ", "賽子", "骰子", "ダイス" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 127,
+      "form" : "ceesris junie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "通分する" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 115,
+        "form" : "junie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 128,
+      "form" : "asmietx junie"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "約分する" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) E asmietx junie'd xantsta lut deu mal is tusta lut pan.  「3/6を約分すると1/2になる」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 115,
+        "form" : "junie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 129,
+      "form" : "jeteserl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "はやさ", "早さ", "速さ", "速度", "スピード" ]
+    } ],
+    "tags" : [ "理日非準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : "現世の「速さ(speed)」「速度(velocity)」のようにスカラー量かベクトル量かでkiと区別することはない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 130,
+        "form" : "ki"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 130,
+      "form" : "ki"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "はやさ", "早さ", "速さ", "速度", "スピード" ]
+    } ],
+    "tags" : [ "理日非準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "現世の「速さ(speed)」「速度(velocity)」のようにスカラー量かベクトル量かでjeteserlと区別することはない。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "類義語",
+      "entry" : {
+        "id" : 129,
+        "form" : "jeteserl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 131,
+      "form" : "liestu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "時間", "時刻" ]
+    } ],
+    "tags" : [ "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 132,
+      "form" : "fartze"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "辺" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 133,
+      "form" : "dytyfartze"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "斜辺" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "直角三角形において直角の対辺を指す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 134,
+      "form" : "denepelen junie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "小数", "非整数", "記数法", "小数展開", "小数表記" ]
+    } ],
+    "tags" : [ "初等数学", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "整数でない実数(要は端数のある数)を表記するとき、大まかに分けて整数の比として表現する方法(分数表記)と位取り記数法を非整数に拡張して表記する方法(小数表記)がある。denepelen junieは「位取り記数法によって表現される分数」というような意味で、分数表記に対する小数表記を指す\n\n参照: https://twitter.com/sashimiwiki/status/1111864033773117440"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 180,
+        "form" : "denepelen"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 115,
+        "form" : "junie"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 135,
+        "form" : "nistajunie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 135,
+      "form" : "nistajunie"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "端数", "小数", "非整数", "0超過1未満の数" ]
+    } ],
+    "tags" : [ "初等数学", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ある数が0より大きく1より小さいとき、その数はnistajunieだと言われる。\n\n例) Fi q es neftilsor, e mol fankla tilsor's l'es h ad nistajunie's l'es r zu h atakes r mal is q. E's tilsor'd tefivilskal q'dy cix snoj stiesel h mal neftilsor'd tefivilskal q'dy cix snoj stiesel r. 「qが非整数ならば、整数hとnistajunie rであってq=h+rを満たすものが唯一つ存在する。hをqの整数部分、rをqの小数部分という」\n\n参照: https://twitter.com/sashimiwiki/status/1111864033773117440"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 134,
+        "form" : "denepelen junie"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 136,
+        "form" : "nistajuniergel"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 136,
+      "form" : "nistajuniergel"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "記数法", "非整数の表記" ]
+    } ],
+    "tags" : [ "初等数学", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "非整数の表記法のこと。例えばdenepelen junie\n\n参照: https://twitter.com/sashimiwiki/status/1111864033773117440"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 134,
+        "form" : "denepelen junie"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 135,
+        "form" : "nistajunie"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 137,
+        "form" : "neftilsor"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 137,
+      "form" : "neftilsor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "非整数", "小数" ]
+    } ],
+    "tags" : [ "初等数学", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "整数でない実数のこと。これを表記できるdenepelen junieなどの記数法をnistajuniergelという。\n\n例) FFi q es neftilsor, e mol fankla tilsor's l'es h ad nistajunie's l'es r zu h atakes r mal is q. E's tilsor'd tefivilskal q'dy cix snoj stiesel h mal neftilsor'd tefivilskal q'dy cix snoj stiesel r. 「qが非整数ならば、整数hとnistajunie rであってq=h+rを満たすものが唯一つ存在する。hをqの整数部分、rをqの小数部分という」\n\n参照: https://twitter.com/sashimiwiki/status/1111864033773117440"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 134,
+        "form" : "denepelen junie"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 135,
+        "form" : "nistajunie"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 136,
+        "form" : "nistajuniergel"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 138,
+      "form" : "tilsor'd tefivilskal"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "整数部分" ]
+    } ],
+    "tags" : [ "初等数学", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "任意の実数aは整数xと0以上1未満の実数yの組(x,y)であってa=x+yを満たすものを唯一つ持つ。つまりaからそのような組(x,y)が一意に定まる。このときxをaの整数部分、yをaの小数部分という。\n\n例) Fi q es neftilsor, e mol fankla tilsor's l'es h ad nistajunie's l'es r zu h atakes r mal is q. E's tilsor'd tefivilskal q'dy cix snoj stiesel h mal neftilsor'd tefivilskal q'dy cix snoj stiesel r. 「qが非整数ならば、整数hとnistajunie rであってq=h+rを満たすものが唯一つ存在する。hをqの整数部分、rをqの小数部分という」\n\n参照: https://twitter.com/sashimiwiki/status/1111864033773117440"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 81,
+        "form" : "tilsor"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 139,
+        "form" : "neftilsor'd tefivilskal"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 139,
+      "form" : "neftilsor'd tefivilskal"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "小数部分" ]
+    } ],
+    "tags" : [ "初等数学", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "任意の実数aは整数xと0以上1未満の実数yの組(x,y)であってa=x+yを満たすものを唯一つ持つ。つまりaからそのような組(x,y)が一意に定まる。このときxをaの整数部分、yをaの小数部分という。\n\n例) Fi q es neftilsor, e mol fankla tilsor's l'es h ad nistajunie's l'es r zu h atakes r mal is q. E's tilsor'd tefivilskal q'dy cix snoj stiesel h mal neftilsor'd tefivilskal q'dy cix snoj stiesel r. 「qが非整数ならば、整数hとnistajunie rであってq=h+rを満たすものが唯一つ存在する。hをqの整数部分、rをqの小数部分という」\n\n参照: https://twitter.com/sashimiwiki/status/1111864033773117440"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 138,
+        "form" : "tilsor'd tefivilskal"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 140,
+      "form" : "nyrterko"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ひき算", "引き算", "減算" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 109,
+        "form" : "terk"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 143,
+        "form" : "neoqa ferl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 141,
+      "form" : "estalle"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "差", "差異", "違い" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 69,
+        "form" : "ny atakes"
+      }
+    }, {
+      "title" : "反義語",
+      "entry" : {
+        "id" : 109,
+        "form" : "terk"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 142,
+      "form" : "ixfanterl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "積" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 111,
+        "form" : "stusni'amars"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 143,
+      "form" : "neoqa ferl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "五則演算", "四則演算", "演算", "加減乗除" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "算術の中でも基本的な操作であるterk(操作を表す動詞はatakes), nyrterko(ny atakes), stusni'amars(stusni), nyrstusnirgo(ny stusni), kakiteso(kakites)の5つを総称する語"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 68,
+        "form" : "atakes"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 109,
+        "form" : "terk"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 69,
+        "form" : "ny atakes"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 140,
+        "form" : "nyrterko"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 70,
+        "form" : "stusni"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 111,
+        "form" : "stusni'amars"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 71,
+        "form" : "ny stusni"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 72,
+        "form" : "kakites"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 144,
+      "form" : "suiv"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "直径" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 114,
+        "form" : "akitesafte"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 105,
+        "form" : "rafte"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 112,
+        "form" : "la xeji"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 145,
+      "form" : "sysit"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "中心", "(円・球の)中心" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "要追記" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) rafte zelx liaxu fqa'd sysite'c mol i io la celnirfexia ad fqa'd akitesafte es 1fta 「原点に中心があり半径が1ftaである円」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 114,
+        "form" : "akitesafte"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 146,
+      "form" : "snoj"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "定義する", "定める", "呼ぶ", "とする" ]
+    } ],
+    "tags" : [ "初等数学", "論理", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "snojには用法がいくつか存在するが、以下では数学表現として重要と考えられるものを説明する。\n\n1) 「-'sは-'iを-'c/-'lであると定義する」\n\n　次の例文が知られる。\n例) E snoj niv panqa moni'akda'c fua dzeftlorznajo yrskestyrsy'd fanklavo'it. 「素因数分解の一意性を成り立たせるために1は素数としない」\n上の文は「素因数分解の一意性(yrskestyrsy'd fanklavo)を保障すること(dzeftlorznajo)のために1(panqa)を素数(moni'akda)であるものだと定義しない」と理解できる。ただしこの格組のsnojには「見做す」という意味もあり、この場合はそちらの意味で「1が素数だと見做すようなことはない」などと理解した方が自然とも考えられる。\n　しかしながら、この枠組において-i'や-'c/-'lには具体的な定義の内容のみが入るのではない。それを示す例として以下のような用法も存在する。\n例) E snoj r'c kakiteserl'i a'it b io mal la lexe'd anfilerl es r.「aをbで割った余りをrとする」\n上の文は「aをbで割った結果(kakiteserl'i a'it b io)をrとして定義する。すなわちこの余り(la lexe'd anfilerl)はrである(として)」と理解できる。この例文はmalを接続詞として2つの文が繋がっている構造をとるため、後半が定義に関わると考えるのは違和感を感じるかもしれないが、リパライン語では文脈指示の代名詞la lexなどを用いて複数の文をあたかも1つの文であるような意味の連関のもとに置く用法が発達しているので、mal以降の内容はrの性質でなくrの定義であると理解することはなんら不自然ではない。また前半で用いられている接辞の-erlは「〜する物」と訳されるが、li'este(涙)という語がlijiest(涙する)-erlを語源とするように、その動詞を実行する存在のみならずその行為に関係するものをある程度広く指せる接辞であり、この例文ではkakitesなる演算の計算結果を表す。このように-'iには定義の方向性を示す程度の情報を与えるに留まっている例文も存在する。\n\n2) S's B cix snoj stiesel A. 「SはAをBと呼ぶ(ように定義する)」\n\n　次の例文が知られる。\n例) Fi q es neftilsor, e mol fankla tilsor's l'es h ad nistajunie's l'es r zu h atakes r mal is q. E's tilsor'd tefivilskal q'dy cix snoj stiesel h mal neftilsor'd tefivilskal q'dy cix snoj stiesel r. 「qが非整数ならば、整数hとnistajunie rであってq=h+rを満たすものが唯一つ存在する。hをqの整数部分、rをqの小数部分という」\n後ろの文は「hをqの整数部分(tilsor'd tefivilskal q'dy)と呼び、そしてrをqの小数部分(neftilsor'd tefivilskal q'dy)と呼ぶ」と理解できる。\n　以下の文も同様の用法であるが、数学表現で-'sciが生産的に使われるかという話題の中で出されたものであり、その点で興味深い。\n例) Tilsor'sci l'es q, e's q'd latva cix snoj stiesel soor zu stusni q'i tilsor'c.「整数qについて、qと或る整数の積たる数をqの倍数と呼ぶ」\n　理日ではこの構文を\"S snoj stiesel A cixj B.\"としているが、cix句が動詞から離れるのは好まれないようなので注意が必要である(cf. https://twitter.com/sashimiwiki/status/1126705874725031936)。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 147,
+      "form" : "celnirfexia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "原点" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "(la) celnirfexiaの形で座標空間の原点を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 148,
+      "form" : "dieniep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "数字", "数", "数値", "数学", "算数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "本来は数字や数そのものを指す単語だが、学生などの間で科目としての数学を表す俗語として用いられる(cf. https://twitter.com/mai_lang0/status/1182842755564752896)。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 149,
+      "form" : "diunakrapt"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "正負符号", "符号" ]
+    } ],
+    "tags" : [ "初等数学" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "リパライン語では+(燐帝字母の「上」に由来)と-(燐帝字母の「下」に由来)を用いる"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 76,
+        "form" : "diun-"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 150,
+        "form" : "diunakrapten"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 150,
+      "form" : "diunakrapten"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "正負符号の", "符号の" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 149,
+        "form" : "diunakrapt"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 151,
+      "form" : "fancel"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ファンセル", "フェデラルボード", "連邦教育課程" ]
+    } ],
+    "tags" : [ "数学史", "数学教育", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "ユエスレオネ連邦の教育課程の一。初等科、中等科、高等科に分かれ、初等科から数学の科目がある。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 152,
+      "form" : "gliftqun'o"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "グリフトクゥノ" ]
+    } ],
+    "tags" : [ "数学史", "数学教育", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "phil.775より一般的に普及した7つの教育科目のこと。その科目とは1. リパラオネ教学、2. 教法学、3. 文学、4. 芸術、5. 自然科学、6. 数学/幾何学、7. ヴィシュネフラーグ医学である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 153,
+      "form" : "jexerrt"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "証明" ]
+    } ],
+    "tags" : [ "初等数学", "論理学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 154,
+      "form" : "lakormeru"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "平方根", "ルート" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 155,
+        "form" : "say"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 155,
+      "form" : "say"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "根", "ルート" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 154,
+        "form" : "lakormeru"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 156,
+      "form" : "nirlej"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "筆小雪", "kua2 ni1 let1", "ニーレイ", "小雪式計算機", "ニーレイ計算機", "ニーレイ式計算機", "計算機" ]
+    } ],
+    "tags" : [ "数学史", "数学者", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "phil.1478に初の機械式計算機である小雪式計算機(ニーレイ計算機)を開発したラネーメ共和国のパイグ人数学者 筆小雪(kua2 ni1 let1)のラパライン語圏における愛称。転じてニーレイ計算機自身や計算機一般も指す単語となった。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 157,
+        "form" : "la nirlej-litarlergyl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 157,
+      "form" : "la nirlej-litarlergyl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "小雪式計算機", "ニーレイ計算機", "ニーレイ式計算機" ]
+    } ],
+    "tags" : [ "数学史", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "phil.1478にラネーメ共和国のパイグ人数学者 筆小雪(kua2 ni1 let1)によって開発された初の機械式計算機。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 156,
+        "form" : "nirlej"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 158,
+      "form" : "s.l."
+    },
+    "translations" : [ {
+      "title" : "接続詞",
+      "forms" : [ "～分の～", "～分の" ]
+    } ],
+    "tags" : [ "数詞", "数表現" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "-sta lutの省略"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 39,
+        "form" : "-sta"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 40,
+        "form" : "lut"
+      }
+    }, {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 159,
+        "form" : "sler"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 159,
+      "form" : "sler"
+    },
+    "translations" : [ {
+      "title" : "接続詞",
+      "forms" : [ "～分の～", "～分の" ]
+    } ],
+    "tags" : [ "数詞", "数表現" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "-sta lutの省略"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 39,
+        "form" : "-sta"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 40,
+        "form" : "lut"
+      }
+    }, {
+      "title" : "同義語",
+      "entry" : {
+        "id" : 158,
+        "form" : "s.l."
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 160,
+      "form" : "skarsna haltxeafis klan"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "スカースナ・ハルトシェアフィス・クラン" ]
+    } ],
+    "tags" : [ "数学史", "数学者" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "phil.12にFafs.sashimiの号令によりskarsna haltxeafis klanがリパライン数学を編纂した．"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 157,
+        "form" : "la nirlej-litarlergyl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 161,
+      "form" : "voleso"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "事象" ]
+    } ],
+    "tags" : [ "初等数学", "確率", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 162,
+      "form" : "stusnypes"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "算出する", "計算する", "演算する", "割り出す" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "格組は「-'sは-'iをio/lerで計算する」の形である。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 63,
+        "form" : "stusnyp"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 163,
+      "form" : "la lo'raihelyjoten dieniep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ロライヘル数字", "ファルファベット数字" ]
+    } ],
+    "tags" : [ "数学史", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "古理字が使われていた時代における数字体系であり、位取り記数法を用いていない。何らかの計算用具を模したものとされている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 164,
+      "form" : "litarle"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "計算する", "値を求める", "求値する", "数える", "演算する", "測る", "計る", "測定する" ]
+    } ],
+    "tags" : [ "初等数学", "度量衡", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 165,
+      "form" : "adzerctila"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "確率" ]
+    } ],
+    "tags" : [ "初等数学", "確率", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 166,
+      "form" : "afikelixe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "はかる", "測る", "計る", "量る", "測定する", "計量する" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 167,
+        "form" : "poltafikelixe"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 168,
+        "form" : "poltafikelixeo"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 64,
+        "form" : "poltafikelixeolyr"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 167,
+      "form" : "poltafikelixe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "測量する", "測地する" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 166,
+        "form" : "afikelixe"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 168,
+        "form" : "poltafikelixeo"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 64,
+        "form" : "poltafikelixeolyr"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 168,
+      "form" : "poltafikelixeo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "測量", "測地", "幾何" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 166,
+        "form" : "afikelixe"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 167,
+        "form" : "poltafikelixe"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 64,
+        "form" : "poltafikelixeolyr"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 169,
+      "form" : "stusnimeo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "累乗", "べき乗", "冪乗", "冪" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 70,
+        "form" : "stusni"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 170,
+      "form" : "adal"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "AND", "連言", "論理積" ]
+    } ],
+    "tags" : [ "数表現", "論理", "理日非準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 53,
+        "form" : "ad"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 171,
+      "form" : "atakeses"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "たす", "足す", "+", "プラス", "加える", "加算する" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "格組は「-'sは-'iを-'cに足す」の形である。atakes「-'sを-'iに足す」とは格組が異なる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 68,
+        "form" : "atakes"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 172,
+      "form" : "nistaatakes"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "足し引きする", "足すか引くかする", "差を与える" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "例) Als moni'akda ny favon melses fal 6. Moni'akda zu laozia 6 i m'es 2 ad 3, la lex filxj als moni'akda es dieniep zu 1 nistaatakes 6'd latva. 「全ての素数は6と密接な関係にある。6を構成する素数は2と3である。また、その2と3以外の全ての素数は必ず、6の倍数から1を引いた数かあるいは6の倍数に1を足した数のいずれかに出現する。」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 68,
+        "form" : "atakes"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 173,
+      "form" : "ratadzkurn"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "演算子", "オペレーター", "オペレータ" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 174,
+      "form" : "snakxaz"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "負の", "負数の", "マイナスの" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 175,
+        "form" : "ny snakxaz"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 175,
+      "form" : "ny snakxaz"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "非負の" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 174,
+        "form" : "snakxaz"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 176,
+      "form" : "talvi'a"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "累乗", "冪", "べき乗", "冪乗", "冪演算", "底", "指数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 177,
+      "form" : "ancorten"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "約", "約～", "およそ", "およそ～", "凡そ", "凡そ～", "おおよそ", "おおよそ～", "大凡", "大凡～", "ざっと" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 178,
+      "form" : "denep"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "桁", "位" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "\"A'd denep\"で「Aの位」の意を表す"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 179,
+        "form" : "denepel"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 180,
+        "form" : "denepelen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 179,
+      "form" : "denepel"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "位取り記数法" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 178,
+        "form" : "denep"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 180,
+        "form" : "denepelen"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 180,
+      "form" : "denepelen"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "位取り記数法の" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 178,
+        "form" : "denep"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 179,
+        "form" : "denepel"
+      }
+    }, {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 134,
+        "form" : "denepelen junie"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 181,
+      "form" : "fasvidiene"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "虚数" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "純虚数を指すのか虚数(ℂ/ℝの元)を指すのか複素数(ℂの元)の元を指すのかは未創作。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 182,
+      "form" : "icvetalv"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "対数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 183,
+      "form" : "infescestemeles"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "三角関数" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 101,
+        "form" : "infescest"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 195,
+        "form" : "ixxe"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 204,
+        "form" : "ovus"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 206,
+        "form" : "zevlue"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 184,
+      "form" : "kakiteosso"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "比率", "比" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 72,
+        "form" : "kakites"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 186,
+        "form" : "kakitesesnoj"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 185,
+      "form" : "naste kakites"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "割り切る" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "格組は「-'sは-'iをioで割り切る」の形である(\"naste kakites\"自体は「完全にkakitesする」の意)。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 72,
+        "form" : "kakites"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 186,
+      "form" : "kakitesesnoj"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "割合", "比率" ]
+    } ],
+    "tags" : [ "初等数学", "算術", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 72,
+        "form" : "kakites"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 184,
+        "form" : "kakiteosso"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 187,
+      "form" : "yst kestiek"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "因数分解" ]
+    } ],
+    "tags" : [ "初等数学", "代数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 188,
+        "form" : "kestiekovelun"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 188,
+      "form" : "kestiekovelun"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "因数" ]
+    } ],
+    "tags" : [ "初等数学", "代数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 187,
+        "form" : "yst kestiek"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 189,
+      "form" : "kestieken moni'akda"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "素因数" ]
+    } ],
+    "tags" : [ "初等数学", "整数論", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 94,
+        "form" : "yrskestyrsy"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 190,
+      "form" : "kinfit"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "数える" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 191,
+        "form" : "kinfitrakrapt"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 191,
+      "form" : "kinfitrakrapt"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "画線法", "タリーマーク" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 190,
+        "form" : "kinfit"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 192,
+      "form" : "klurp"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "進数" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "\"klurpen A\"で「A進数」の意味になる。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 193,
+      "form" : "pergendierni"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "パイグ数字", "燐帝数字" ]
+    } ],
+    "tags" : [ "数学史", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "パイグ語圏で用いられてきた数字体系。現在の全PMCF国家において使用されている。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 194,
+      "form" : "fanxensor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "乱数" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 195,
+      "form" : "ixxe"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "サイン", "正弦", "sin" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 183,
+        "form" : "infescestemeles"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 204,
+        "form" : "ovus"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 206,
+        "form" : "zevlue"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 196,
+      "form" : "juleslotizas"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "平均の", "平均値の" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 197,
+      "form" : "kenelif"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "無限", "無限大" ]
+    } ],
+    "tags" : [ "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 198,
+      "form" : "kinellavor"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "座標", "坐標" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 199,
+      "form" : "la rafte-fua-infescest"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "アポロニウスの円" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 200,
+      "form" : "lacherf"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ベクトル" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 202,
+        "form" : "lacherf inyrl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 201,
+      "form" : "inyrl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "場" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "派生語",
+      "entry" : {
+        "id" : 202,
+        "form" : "lacherf inyrl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 202,
+      "form" : "lacherf inyrl"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ベクトル場" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 200,
+        "form" : "lacherf"
+      }
+    }, {
+      "title" : "基本語",
+      "entry" : {
+        "id" : 201,
+        "form" : "inyrl"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 203,
+        "form" : "laisnej"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 203,
+      "form" : "laisnej"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "流束", "フラックス" ]
+    } ],
+    "tags" : [ "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 202,
+        "form" : "lacherf inyrl"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 204,
+      "form" : "ovus"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "コサイン", "余弦", "cos" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 183,
+        "form" : "infescestemeles"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 195,
+        "form" : "ixxe"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 206,
+        "form" : "zevlue"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 205,
+      "form" : "raftettexain"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "円周", "円" ]
+    } ],
+    "tags" : [ "初等数学", "幾何学", "図形名", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 114,
+        "form" : "akitesafte"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 105,
+        "form" : "rafte"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 206,
+      "form" : "zevlue"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "タンジェント", "正接", "tan" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 183,
+        "form" : "infescestemeles"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 195,
+        "form" : "ixxe"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 204,
+        "form" : "ovus"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 207,
+      "form" : "garxnescirfua"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "微分" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 208,
+      "form" : "fecior"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "積分" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ],
+  "zpdic" : {
+    "alphabetOrder" : "",
+    "wordOrderType" : "UNICODE",
+    "punctuations" : [ ",", "、" ],
+    "ignoredTranslationRegex" : "",
+    "pronunciationTitle" : null,
+    "plainInformationTitles" : [ ],
+    "informationTitleOrder" : null,
+    "formFontFamily" : null,
+    "defaultWord" : {
+      "entry" : {
+        "id" : -1,
+        "form" : ""
+      },
+      "translations" : [ ],
+      "tags" : [ ],
+      "contents" : [ ],
+      "variations" : [ ],
+      "relations" : [ ]
+    }
+  },
+  "snoj" : null
+}
