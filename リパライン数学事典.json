@@ -693,7 +693,7 @@
     "tags" : [ "数詞", "接辞", "理日準拠" ],
     "contents" : [ {
       "title" : "語法",
-      "text" : "基数詞についてそれを序数詞にする\n例) neoqa(5)→neoqate(第5の)"
+      "text" : "基数詞についてそれを序数詞にする。この語形で副詞としても用いられる。\n例) neoqa(5)→neoqate(第5の)"
     } ],
     "variations" : [ ],
     "relations" : [ {
@@ -4785,6 +4785,76 @@
     } ],
     "variations" : [ ],
     "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 210,
+      "form" : "mol"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "存在する", "～が存在する", "～個ある", "～つある", "～個存在する" ]
+    } ],
+    "tags" : [ "数表現", "初等数学", "理日準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "1) -'s(-'c)は(-'c|io|-'l|fal)に存在する\n2) -'sは[数詞]-'c個存在する"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 211,
+      "form" : "nefeceili'a"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "約", "約～", "およそ", "およそ～", "凡そ", "凡そ～", "おおよそ", "おおよそ～", "大凡", "大凡～", "ざっと" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 212,
+      "form" : "ro"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "約", "約～", "およそ", "およそ～", "凡そ", "凡そ～", "おおよそ", "おおよそ～", "大凡", "大凡～", "ざっと" ]
+    } ],
+    "tags" : [ "初等数学", "理日準拠", "要追記" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 213,
+      "form" : "mele"
+    },
+    "translations" : [ {
+      "title" : "前置詞",
+      "forms" : [ "～くらい", "およそ～", "凡そ～", "約～", "ざっと～", "～程度", "概数の前置詞" ]
+    } ],
+    "tags" : [ "数表現", "数詞", "前置詞", "理日非準拠" ],
+    "contents" : [ {
+      "title" : "語法",
+      "text" : "meleと数詞からなる句は名詞にかかって概数を表す。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "参照",
+      "entry" : {
+        "id" : 34,
+        "form" : "-ss"
+      }
+    }, {
+      "title" : "参照",
+      "entry" : {
+        "id" : 84,
+        "form" : "lovik"
+      }
+    } ]
   } ],
   "zpdic" : {
     "alphabetOrder" : "",
